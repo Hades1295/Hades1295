@@ -6,6 +6,6 @@
 - :office: Currently Working on Magento 2 Framework,Javscript
 - :school: Currently Learning Data structure and Algorithm Along with Graphql and Laravel
 - 👀 I’m interested in Ecommerce, API's, Javascript
-- 🌱 I’m currently learning Solving DS And Alogrith Problems,Problem Solving Techniques ,Graphql and Laravel 
-- 🖤: Have Facination About API'S :love_you_gesture:
+- 🌱 I’m currently learning Solving DS And Alogrithm Problems,Problem Solving Techniques ,Graphql and Laravel 
+- 🖤 Have Fascination About API'S :love_you_gesture:
 
