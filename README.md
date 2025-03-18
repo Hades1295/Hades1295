@@ -2,7 +2,7 @@
 
 ###  👨🏻‍💻  About Me
 - 👋 Hi, I’m Shreyash aka @Hades1295
-- :briefcase: Software Engineer at Focalworks.in
+- :briefcase: Software Engineer
 - :office: Currently Working on Nest, Next, Magento 2 Framework,Javscript  
 - :school: Currently Learning Data structure and Algorithm Along with React, and Newer Technologies
 - 👀 I’m interested in Ecommerce, API's, Javascript
